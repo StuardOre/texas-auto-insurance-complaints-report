@@ -1,0 +1,476 @@
+{
+  "year": 2025,
+  "asof": "2026-11-12",
+  "kpi": {
+    "files": 9717,
+    "confirmed": 2484,
+    "open": 0,
+    "within_90": 0.7084491098075538,
+    "median_days": 70.0,
+    "attorney_share": 0.08901924462282597,
+    "money_share": 0.1244211176288978,
+    "prev_year_files": 9183,
+    "confirmed_rate": 0.255634455078728,
+    "yoy_change": 0.0581509310682784
+  },
+  "market": {
+    "policies": 15057105,
+    "confirmed": 2481,
+    "per_100k": 16.477271029191865
+  },
+  "last_complete": "2026-06",
+  "monthly": {
+    "2024": [
+      912,
+      805,
+      745,
+      843,
+      753,
+      722,
+      813,
+      818,
+      735,
+      761,
+      607,
+      669
+    ],
+    "2025": [
+      738,
+      656,
+      674,
+      855,
+      782,
+      810,
+      926,
+      854,
+      844,
+      927,
+      704,
+      947
+    ],
+    "2026": [
+      915,
+      819,
+      987,
+      1067,
+      915,
+      953,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "reasons": [
+    {
+      "reasons": "Cust Service Claim Handling",
+      "files": 6332,
+      "confirmed": 1796,
+      "share": 0.651641453123392,
+      "confirmed_rate": 0.28363866077068856
+    },
+    {
+      "reasons": "Delays (Claims Handling)",
+      "files": 5049,
+      "confirmed": 1567,
+      "share": 0.5196048163013276,
+      "confirmed_rate": 0.3103584868290751
+    },
+    {
+      "reasons": "Unsatisfactory Settle/Offer",
+      "files": 3190,
+      "confirmed": 722,
+      "share": 0.3282906246783987,
+      "confirmed_rate": 0.2263322884012539
+    },
+    {
+      "reasons": "Denial Of Claim",
+      "files": 1378,
+      "confirmed": 169,
+      "share": 0.14181331686734588,
+      "confirmed_rate": 0.12264150943396226
+    },
+    {
+      "reasons": "Cust Srvc Policy Holder Srvcs",
+      "files": 1125,
+      "confirmed": 332,
+      "share": 0.11577647422043841,
+      "confirmed_rate": 0.2951111111111111
+    },
+    {
+      "reasons": "Liability Dispute",
+      "files": 739,
+      "confirmed": 114,
+      "share": 0.07605227951013688,
+      "confirmed_rate": 0.15426251691474965
+    },
+    {
+      "reasons": "Refund Of Premium",
+      "files": 694,
+      "confirmed": 234,
+      "share": 0.07142122054131934,
+      "confirmed_rate": 0.3371757925072046
+    },
+    {
+      "reasons": "Premium and Rating",
+      "files": 660,
+      "confirmed": 139,
+      "share": 0.06792219820932387,
+      "confirmed_rate": 0.2106060606060606
+    },
+    {
+      "reasons": "Delays (Policyholder Service)",
+      "files": 526,
+      "confirmed": 205,
+      "share": 0.05413193372440053,
+      "confirmed_rate": 0.3897338403041825
+    },
+    {
+      "reasons": "Cancellation",
+      "files": 341,
+      "confirmed": 96,
+      "share": 0.035093135741484,
+      "confirmed_rate": 0.28152492668621704
+    },
+    {
+      "reasons": "Use Of Clue Reports",
+      "files": 157,
+      "confirmed": 48,
+      "share": 0.016157250180096738,
+      "confirmed_rate": 0.3057324840764331
+    },
+    {
+      "reasons": "Misrepresentation",
+      "files": 112,
+      "confirmed": 39,
+      "share": 0.0115261912112792,
+      "confirmed_rate": 0.3482142857142857
+    }
+  ],
+  "respondents": [
+    {
+      "respondents": "Progressive County Mutual Insurance Company",
+      "files": 1470,
+      "confirmed": 353,
+      "share": 0.1512812596480395,
+      "confirmed_rate": 0.24013605442176872
+    },
+    {
+      "respondents": "State Farm Mutual Automobile Insurance Company",
+      "files": 1080,
+      "confirmed": 191,
+      "share": 0.11114541525162087,
+      "confirmed_rate": 0.17685185185185184
+    },
+    {
+      "respondents": "Redpoint County Mutual Insurance Company",
+      "files": 649,
+      "confirmed": 134,
+      "share": 0.0667901615725018,
+      "confirmed_rate": 0.20647149460708783
+    },
+    {
+      "respondents": "Old American County Mutual Fire Insurance Company",
+      "files": 581,
+      "confirmed": 143,
+      "share": 0.059792116908510856,
+      "confirmed_rate": 0.24612736660929432
+    },
+    {
+      "respondents": "Loya Insurance Company",
+      "files": 503,
+      "confirmed": 210,
+      "share": 0.051764948029227126,
+      "confirmed_rate": 0.41749502982107356
+    },
+    {
+      "respondents": "Allstate Fire And Casualty Insurance Company",
+      "files": 448,
+      "confirmed": 95,
+      "share": 0.0461047648451168,
+      "confirmed_rate": 0.21205357142857142
+    },
+    {
+      "respondents": "GEICO Texas County Mutual Insurance Company",
+      "files": 407,
+      "confirmed": 98,
+      "share": 0.04188535556241638,
+      "confirmed_rate": 0.24078624078624078
+    },
+    {
+      "respondents": "Home State County Mutual Insurance Company",
+      "files": 374,
+      "confirmed": 74,
+      "share": 0.038489245651950194,
+      "confirmed_rate": 0.19786096256684493
+    },
+    {
+      "respondents": "GEICO County Mutual Insurance Company",
+      "files": 277,
+      "confirmed": 76,
+      "share": 0.028506740763610167,
+      "confirmed_rate": 0.2743682310469314
+    },
+    {
+      "respondents": "Tesla Property & Casualty, Inc.",
+      "files": 242,
+      "confirmed": 188,
+      "share": 0.024904806010085417,
+      "confirmed_rate": 0.7768595041322314
+    },
+    {
+      "respondents": "Liberty County Mutual Insurance Company",
+      "files": 188,
+      "confirmed": 39,
+      "share": 0.019347535247504374,
+      "confirmed_rate": 0.2074468085106383
+    },
+    {
+      "respondents": "Allstate North American Insurance Company",
+      "files": 183,
+      "confirmed": 23,
+      "share": 0.018832973139857982,
+      "confirmed_rate": 0.12568306010928962
+    }
+  ],
+  "filed_by": [
+    {
+      "filed_by": "Insured",
+      "files": 4080
+    },
+    {
+      "filed_by": "Third Party",
+      "files": 3776
+    },
+    {
+      "filed_by": "Attorney",
+      "files": 865
+    },
+    {
+      "filed_by": "Other",
+      "files": 580
+    },
+    {
+      "filed_by": "Relative",
+      "files": 173
+    },
+    {
+      "filed_by": "Lienholder",
+      "files": 124
+    },
+    {
+      "filed_by": "Provider",
+      "files": 65
+    },
+    {
+      "filed_by": "Agent",
+      "files": 21
+    },
+    {
+      "filed_by": "Non-insured",
+      "files": 19
+    },
+    {
+      "filed_by": "Third Party Billing Service",
+      "files": 6
+    },
+    {
+      "filed_by": "Insurance Company",
+      "files": 5
+    },
+    {
+      "filed_by": "Adjuster",
+      "files": 2
+    },
+    {
+      "filed_by": "Beneficiary",
+      "files": 1
+    }
+  ],
+  "buckets": [
+    {
+      "bucket": "0-30 days",
+      "files": 1477
+    },
+    {
+      "bucket": "31-60 days",
+      "files": 2329
+    },
+    {
+      "bucket": "61-90 days",
+      "files": 3078
+    },
+    {
+      "bucket": "91-180 days",
+      "files": 2820
+    },
+    {
+      "bucket": "Over 180 days",
+      "files": 13
+    }
+  ],
+  "carriers": [
+    {
+      "company": "State Farm Mutual Automobile Insurance Company",
+      "naic_id": "25178",
+      "policies": 4040188,
+      "confirmed_complaints": 201.0,
+      "complaint_index": 0.3,
+      "per_100k": 4.975016014106274
+    },
+    {
+      "company": "Progressive County Mutual Insurance Company",
+      "naic_id": "29203",
+      "policies": 3306121,
+      "confirmed_complaints": 362.0,
+      "complaint_index": 0.66,
+      "per_100k": 10.949387514855022
+    },
+    {
+      "company": "GEICO Texas County Mutual Insurance Company",
+      "naic_id": "27863",
+      "policies": 855054,
+      "confirmed_complaints": 84.0,
+      "complaint_index": 0.6,
+      "per_100k": 9.823940944080725
+    },
+    {
+      "company": "Redpoint County Mutual Insurance Company",
+      "naic_id": "29300",
+      "policies": 606304,
+      "confirmed_complaints": 155.0,
+      "complaint_index": 1.55,
+      "per_100k": 25.564733203145618
+    },
+    {
+      "company": "Allstate Fire And Casualty Insurance Company",
+      "naic_id": "29688",
+      "policies": 505836,
+      "confirmed_complaints": 97.0,
+      "complaint_index": 1.16,
+      "per_100k": 19.17617567749231
+    },
+    {
+      "company": "Home State County Mutual Insurance Company",
+      "naic_id": "29297",
+      "policies": 364198,
+      "confirmed_complaints": 87.0,
+      "complaint_index": 1.45,
+      "per_100k": 23.888104822102264
+    },
+    {
+      "company": "Old American County Mutual Fire Insurance Company",
+      "naic_id": "29378",
+      "policies": 322095,
+      "confirmed_complaints": 145.0,
+      "complaint_index": 2.73,
+      "per_100k": 45.017774259147146
+    },
+    {
+      "company": "GEICO County Mutual Insurance Company",
+      "naic_id": "29181",
+      "policies": 308449,
+      "confirmed_complaints": 69.0,
+      "complaint_index": 1.36,
+      "per_100k": 22.369986610428306
+    },
+    {
+      "company": "Foremost County Mutual Insurance Company",
+      "naic_id": "29254",
+      "policies": 267286,
+      "confirmed_complaints": 29.0,
+      "complaint_index": 0.66,
+      "per_100k": 10.84980133639622
+    },
+    {
+      "company": "USAA Casualty Insurance Company",
+      "naic_id": "25968",
+      "policies": 254367,
+      "confirmed_complaints": 59.0,
+      "complaint_index": 1.41,
+      "per_100k": 23.194832663041982
+    },
+    {
+      "company": "United Services Automobile Association",
+      "naic_id": "25941",
+      "policies": 241317,
+      "confirmed_complaints": 47.0,
+      "complaint_index": 1.18,
+      "per_100k": 19.47645627949958
+    },
+    {
+      "company": "Auto Club County Mutual Insurance Company",
+      "naic_id": "29327",
+      "policies": 232224,
+      "confirmed_complaints": 56.0,
+      "complaint_index": 1.46,
+      "per_100k": 24.11464792614028
+    },
+    {
+      "company": "Liberty County Mutual Insurance Company",
+      "naic_id": "19544",
+      "policies": 229570,
+      "confirmed_complaints": 46.0,
+      "complaint_index": 1.22,
+      "per_100k": 20.03746134076752
+    },
+    {
+      "company": "USAA General Indemnity Company",
+      "naic_id": "18600",
+      "policies": 208828,
+      "confirmed_complaints": 54.0,
+      "complaint_index": 1.57,
+      "per_100k": 25.858601336985465
+    },
+    {
+      "company": "Allstate County Mutual Insurance Company",
+      "naic_id": "29335",
+      "policies": 203656,
+      "confirmed_complaints": 8.0,
+      "complaint_index": 0.24,
+      "per_100k": 3.9281926385669954
+    },
+    {
+      "company": "Mid-century Insurance Company Of Texas",
+      "naic_id": "28673",
+      "policies": 184315,
+      "confirmed_complaints": 14.0,
+      "complaint_index": 0.46,
+      "per_100k": 7.595692157447847
+    },
+    {
+      "company": "Garrison Property And Casualty Insurance Company",
+      "naic_id": "21253",
+      "policies": 182037,
+      "confirmed_complaints": 51.0,
+      "complaint_index": 1.7,
+      "per_100k": 28.016282404126635
+    },
+    {
+      "company": "Consumers County Mutual Insurance Company",
+      "naic_id": "29246",
+      "policies": 176663,
+      "confirmed_complaints": 20.0,
+      "complaint_index": 0.69,
+      "per_100k": 11.320989680917906
+    },
+    {
+      "company": "Texas Farm Bureau Underwriters",
+      "naic_id": "25399",
+      "policies": 173765,
+      "confirmed_complaints": 10.0,
+      "complaint_index": 0.35,
+      "per_100k": 5.754898857652576
+    },
+    {
+      "company": "Farmers Texas County Mutual Insurance Company",
+      "naic_id": "24392",
+      "policies": 164219,
+      "confirmed_complaints": 31.0,
+      "complaint_index": 1.15,
+      "per_100k": 18.877231014681612
+    }
+  ]
+}
